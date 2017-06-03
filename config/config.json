@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/base/BaseWebPart.js",
+      "manifest": "./src/webparts/base/BaseWebPart.manifest.json",
+      "outputPath": "./dist/base.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "baseStrings": "webparts/base/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "base-client-side-solution",
+    "id": "21872ba6-edf6-48ee-8dd5-6caaa933908c",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/base.sppkg"
+  }
+}
